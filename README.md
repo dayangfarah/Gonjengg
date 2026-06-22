@@ -1,4 +1,3 @@
-
 # 
 
 <p align="center">
@@ -10,12 +9,16 @@
 <h3 align="center">Aspiring Data Engineer | Computer Science Student at Universiti Teknologi Malaysia (UTM)</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/dayang-farah-farzana-abang-idham-a38957280"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://dayangfarah.github.io/my-eportfolio/iPortfolio-1.0.0/"><img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website" /></a>
+  <a href="https://https://linkedin.com/in/dayang-farah-farzana-abang-idham-a38957280" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://dayangfarah.github.io/my-eportfolio/iPortfolio-1.0.0/" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
-![元気こんにちはGIF](https://github.com/Gonjengg/Gonjengg/assets/148249930/77b4dd0a-53be-4e10-a280-70b51031c77c)
+
+<p align="center">
+  <img src="https://github.com/Gonjengg/Gonjengg/assets/148249930/77b4dd0a-53be-4e10-a280-70b51031c77c" alt="Welcome GIF" />
+</p>
+
 ## 💫 About Me
 I am an undergraduate student currently pursuing a **Bachelor of Computer Science (Data Engineering) with Honors** at **UTM Skudai**. Originally from **Kuching, Sarawak**, I specialize in designing integrated enterprise systems, structuring data pipelines, and translating raw technical architectures into interactive commercial assets. 
 
@@ -48,9 +51,10 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 * **SECP 3123: Business Intelligence** – Dedicated to engineering automated warehouse data transfer systems, setting up analytics pipelines, and storytelling through interactive stakeholder dashboards.
 
 ### Professional Certifications
-* 🎓 **Alteryx Designer (Core Level)** 
-* 🎓 **AMazon Web Services** 
-* * 🎓 **MS Azure DP-900** 
+* ☁️ **Microsoft Certified: Azure Data Fundamentals (DP-900)** – Validation of foundational core cloud-data pipeline concepts and relational/non-relational analytics architecture in Microsoft Azure.
+* 🛠 **Alteryx Designer (Core Level)** – Framework execution for data manipulation, cleaning processes, and automated analytic pipeline generation.
+* 🚀 **Amazon Web Services (AWS) Platform Experience** – Practical deployment track managing instance setups for cloud-aligned data infrastructure architectures.
+
 ---
 
 ## 📊 GitHub Analytics
@@ -59,24 +63,11 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
   <img src="https://github-readme-stats.vercel.app/api?username=dayangfarah&show_icons=true&theme=tokyonight&title_color=ff6584&icon_color=7ed6df&text_color=ffffff&bg_color=24292e" alt="Dayang's GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayangfarah&layout=compact&theme=tokyonight&title_color=ff6584&text_color=ffffff&bg_color=24292e" alt="Most Used Languages" height="180" />
 </p>
+
 ---
 
-## 🌐 Connect With Me
+## 🛠 Languages and Tools
 
-* 📂 **Portfolio Website:** Explore my interactive project history directly at [link](https://dayangfarah.github.io/my-eportfolio/iPortfolio-1.0.0/)
-* 💼 **Professional Network:** Let's connect on [LinkedIn](www.linkedin.com/in/dayang-farah-farzana-abang-idham-a38957280)
-* 📬 **GitHub Landing Page:** Get to know me more or review my codebases by visiting my profile [link](https://github.com/gonjengg)
-
-### 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dayang-farah-a38957280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dayang-farah-a38957280" height="30" width="40" /></a>
-<a href="https://instagram.com/dygfrhfrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dygfrhfrz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@dayangfarahfarzanabintiabangid?feature=shared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@dayangfarahfarzanabintiabangid?feature=shared" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -93,4 +84,18 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> 
   </a> 
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+* 📂 **Portfolio Website:** Explore my interactive project history directly at [dayangfarah.github.io/my-eportfolio/](https://dayangfarah.github.io/my-eportfolio/iPortfolio-1.0.0/)
+* 💼 **Professional Network:** Let's connect on [LinkedIn](https://linkedin.com/in/dayang-farah-farzana-abang-idham-a38957280)
+* 📬 **GitHub Landing Page:** Get to know me more or review my codebases by visiting my profile [link](https://github.com/gonjengg)
+
+<p align="left">
+<a href="https://linkedin.com/in/dayang-farah-farzana-abang-idham-a38957280" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://instagram.com/dygfrhfrz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" /></a>
+<a href="https://youtube.com/@dayangfarahfarzanabintiabangid?feature=shared" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" /></a>
 </p>

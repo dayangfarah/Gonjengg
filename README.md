@@ -1,3 +1,4 @@
+![元気こんにちはGIF](https://github.com/Gonjengg/Gonjengg/assets/148249930/77b4dd0a-53be-4e10-a280-70b51031c77c)
 # 
 
 <p align="center">

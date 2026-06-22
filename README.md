@@ -57,8 +57,8 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gonjengg&show_icons=true&theme=tokyonight&title_color=ff6584&icon_color=7ed6df&text_color=ffffff&bg_color=24292e" alt="Dayang's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonjengg&layout=compact&theme=tokyonight&title_color=ff6584&text_color=ffffff&bg_color=24292e" alt="Most Used Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dayangfarah&show_icons=true&theme=tokyonight&title_color=ff6584&icon_color=7ed6df&text_color=ffffff&bg_color=24292e" alt="Dayang's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayangfarah&layout=compact&theme=tokyonight&title_color=ff6584&text_color=ffffff&bg_color=24292e" alt="Most Used Languages" height="180" />
 </p>
 ---
 

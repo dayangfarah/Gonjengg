@@ -52,7 +52,6 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 * 🎓 **AMazon Web Services** 
 * * 🎓 **MS Azure DP-900** 
 ---
----
 
 ## 📊 GitHub Analytics
 
@@ -65,7 +64,7 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 ## 🌐 Connect With Me
 
 * 📂 **Portfolio Website:** Explore my interactive project history directly at [gonjengg.github.io](https://gonjengg.github.io/)
-* 💼 **Professional Network:** Let's connect on [LinkedIn](https://linkedin.com/in/dayangfarahfarzana)
+* 💼 **Professional Network:** Let's connect on [LinkedIn](www.linkedin.com/in/dayang-farah-farzana-abang-idham-a38957280)
 * 📬 **GitHub Landing Page:** Get to know me more or review my codebases by visiting my profile [link](https://github.com/gonjengg)
 
 ### 

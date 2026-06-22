@@ -1,4 +1,4 @@
-![元気こんにちはGIF](https://github.com/Gonjengg/Gonjengg/assets/148249930/77b4dd0a-53be-4e10-a280-70b51031c77c)
+
 # 
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 ---
-
+![元気こんにちはGIF](https://github.com/Gonjengg/Gonjengg/assets/148249930/77b4dd0a-53be-4e10-a280-70b51031c77c)
 ## 💫 About Me
 I am an undergraduate student currently pursuing a **Bachelor of Computer Science (Data Engineering) with Honors** at **UTM Skudai**. Originally from **Kuching, Sarawak**, I specialize in designing integrated enterprise systems, structuring data pipelines, and translating raw technical architectures into interactive commercial assets. 
 

@@ -48,8 +48,9 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 * **SECP 3123: Business Intelligence** – Dedicated to engineering automated warehouse data transfer systems, setting up analytics pipelines, and storytelling through interactive stakeholder dashboards.
 
 ### Professional Certifications
-* 🎓 **Alteryx Designer (Core Level)** – Data manipulation, preparation, and automated analytic workflow generation.
-
+* 🎓 **Alteryx Designer (Core Level)** 
+* 🎓 **AMazon Web Services** 
+* * 🎓 **MS Azure DP-900** 
 ---
 
 ## 🏆 Projects, Honors & Awards
@@ -67,7 +68,7 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 ## 🌐 Connect With Me
 
 * 📂 **Portfolio Website:** Explore my interactive project history directly at [gonjengg.github.io](https://gonjengg.github.io/)
-* 💼 **Professional Network:** Let's connect on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE)
+* 💼 **Professional Network:** Let's connect on [LinkedIn](https://linkedin.com/in/dayangfarahfarzana)
 * 📬 **GitHub Landing Page:** Get to know me more or review my codebases by visiting my profile [link](https://github.com/gonjengg)
 
 *(Note: Remember to replace `YOUR_LINKEDIN_USERNAME_HERE` with your actual LinkedIn URL handle to finalize your profile connections!)*

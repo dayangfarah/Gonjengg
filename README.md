@@ -53,25 +53,11 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 * * 🎓 **MS Azure DP-900** 
 ---
 
-## 🏆 Projects, Honors & Awards
-
-### 🚀 Highlighted Projects
-* **Enterprise Architecture Integration System**
-  * Modeled full end-to-end data governance workflows and multi-layered supply chain sequences utilizing Enterprise Architect software. Built loosely coupled system designs adhering strictly to corporate architectural frameworks.
-* **Interactive Enterprise BI Dashboard Matrix**
-  * Automated operational data transfers to warehouse setups and developed unified visualization dashboards with complex DAX logic. Enabled immediate multi-filtered reporting across cross-functional parameters.
-* **Modern Big Data Pipeline Simulation**
-  * Researched and prototyped cloud-aligned streaming ingestion pipelines based on industry-driven constraints to handle large-scale business operations securely.
-
----
-
 ## 🌐 Connect With Me
 
 * 📂 **Portfolio Website:** Explore my interactive project history directly at [gonjengg.github.io](https://gonjengg.github.io/)
 * 💼 **Professional Network:** Let's connect on [LinkedIn](https://linkedin.com/in/dayangfarahfarzana)
 * 📬 **GitHub Landing Page:** Get to know me more or review my codebases by visiting my profile [link](https://github.com/gonjengg)
-
-*(Note: Remember to replace `YOUR_LINKEDIN_USERNAME_HERE` with your actual LinkedIn URL handle to finalize your profile connections!)*
 
 ### 
 

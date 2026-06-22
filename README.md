@@ -63,7 +63,7 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 
 ## 🌐 Connect With Me
 
-* 📂 **Portfolio Website:** Explore my interactive project history directly at [eportfolio]([https://gonjengg.github.io/](https://dayangfarah.github.io/my-eportfolio/iPortfolio-1.0.0/))
+* 📂 **Portfolio Website:** Explore my interactive project history directly at [eportfolio](https://dayangfarah.github.io/my-eportfolio/iPortfolio-1.0.0/)
 * 💼 **Professional Network:** Let's connect on [LinkedIn](www.linkedin.com/in/dayang-farah-farzana-abang-idham-a38957280)
 * 📬 **GitHub Landing Page:** Get to know me more or review my codebases by visiting my profile [link](https://github.com/gonjengg)
 

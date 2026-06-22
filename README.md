@@ -10,8 +10,8 @@
 <h3 align="center">Aspiring Data Engineer | Computer Science Student at Universiti Teknologi Malaysia (UTM)</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://gonjengg.github.io/"><img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website" /></a>
+  <a href="www.linkedin.com/in/dayang-farah-farzana-abang-idham-a38957280"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://dayangfarah.github.io/my-eportfolio/iPortfolio-1.0.0/"><img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
@@ -93,7 +93,4 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/w3schools/w3schools-icon.svg" alt="sql" width="40" height="40" style="background-color:transparent; filter: invert(30%) sepia(100%) saturate(500%) hue-rotate(190deg);"/> 
-  </a>
 </p>

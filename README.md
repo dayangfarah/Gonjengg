@@ -9,7 +9,7 @@
 <h3 align="center">Aspiring Data Engineer | Computer Science Student at Universiti Teknologi Malaysia (UTM)</h3>
 
 <p align="center">
-  <a href="https://https://linkedin.com/in/dayang-farah-farzana-abang-idham-a38957280" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/dayang-farah-farzana-abang-idham-a38957280" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://dayangfarah.github.io/my-eportfolio/iPortfolio-1.0.0/" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website" /></a>
 </p>
 
@@ -24,7 +24,6 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 
 * 🔭 **Current Focus:** Advanced enterprise architecture systems, distributed analytics, and predictive data transformations.
 * 💬 **Ask me about:** Data warehouse modeling, interactive business intelligence pipelines, or system integration logic.
-* ⚡ **Fun Fact:** I love parsing chaotic, raw real-world data constraints into structured, elegant system workflows.
 
 ---
 
@@ -39,21 +38,32 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 * **Programming Languages:** Python, Java, C++, DAX, SQL
 * **Data Engineering & ETL:** Data Warehousing Concepts, System Integration Pipelines, Microservices Architecture
 * **Business Intelligence & Visualization:** Power BI, Tableau Desktop, Alteryx Designer
-* **Modeling Frameworks:** TOGAF, Zachman Architecture Framework, Systems Analysis & Design (SAD)
+* **Modeling Frameworks:** TOGAF Frameework, Systems Analysis & Design (SAD)
 
 ---
 
-## 📖 Recommended Coursework & Certifications
+## 🚀 Featured Engineering Projects
 
-### Key Courses Completed
-* **SECP 3843: Special Topic in Data Engineering** – Focused on modern distributed processing architectures, real-world big data ingestion pipelines, and scaling enterprise database systems.
-* **SCSP3744: Enterprise System Design and Modeling** – Specialized in mapping corporate objectives to technical solutions using enterprise architecture blueprints, ERP integration setups, and loose-coupling designs.
-* **SECP 3123: Business Intelligence** – Dedicated to engineering automated warehouse data transfer systems, setting up analytics pipelines, and storytelling through interactive stakeholder dashboards.
+### 1. Koperasi KADA Digitalized System
+* **Overview:** Co-developed a complete corporate management application tailored for Koperasi KADA to streamline institutional administrative functions, member services, and operational data visibility. 
+* **Engineering Impact:** Structured the enterprise software from scratch by generating formal engineering artifacts—including Software Requirements Specifications (SRS) and Software Design Descriptions (SDD)—and utilized rigorous black-box/white-box test scripts to ensure bulletproof reliability under heavy multi-user workloads.
+* **Source Repository:** [Koperasi KADA Synapse Codebase 📂](https://github.com/frraahn/Koperasi_KADA_Synapse/tree/main)
 
-### Professional Certifications
-* ☁️ **Microsoft Certified: Azure Data Fundamentals (DP-900)** – Validation of foundational core cloud-data pipeline concepts and relational/non-relational analytics architecture in Microsoft Azure.
-* 🛠 **Alteryx Designer (Core Level)** – Framework execution for data manipulation, cleaning processes, and automated analytic pipeline generation.
-* 🚀 **Amazon Web Services (AWS) Platform Experience** – Practical deployment track managing instance setups for cloud-aligned data infrastructure architectures.
+### 2. End-to-End Cloud Data Pipeline
+* **Overview:** Formulated and deployed automated data pipeline layers optimized to stream, ingest, clean, and process multi-structured enterprise business inputs securely.
+* **Engineering Impact:** Leveraged **Microsoft Azure Cloud Environments** alongside structural big data utilities to eliminate staging data bottlenecks. Engineered high-efficiency relational mapping tracks that transform raw transaction logs into interactive, dashboard-ready data warehouse assets.
+
+### 3. TVETMARA Student Attendance Management System
+* **Overview:** Designed and built a dedicated cross-platform management platform tailored for TVET lecturers to digitalize academic logging procedures and eliminate messy paper records.
+* **Engineering Impact:** Developed a highly responsive client-side utility using **Flutter**, incorporating modular state tracking models, asynchronous interface routing, and backend integrations to handle active student rosters flawlessly without UI rendering delays.
+* **Source Repository:** [TVETMARA Attendance System Codebase 📂](https://github.com/leeyinshen0818/TVETMARA-Student-Attendance-Management-System)
+
+---
+
+## 📖 Certifications & Cloud Frameworks
+* ☁️ **Microsoft Certified: Azure Data Fundamentals (DP-900)** – Validation of cloud database models, warehouse storage ingestion infrastructure, and core analytic pipelines.
+* 🛠 **Alteryx Designer (Core Level)** – Framework execution for advanced data preparation, spatial blending, and automated ETL workflows.
+* 🚀 **Amazon Web Services (AWS)** – Practical pipeline experience managing compute instances and cluster configurations for high-performance distributed data workloads.
 
 ---
 
@@ -94,8 +104,14 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 * 💼 **Professional Network:** Let's connect on [LinkedIn](https://linkedin.com/in/dayang-farah-farzana-abang-idham-a38957280)
 * 📬 **GitHub Landing Page:** Get to know me more or review my codebases by visiting my profile [link](https://github.com/gonjengg)
 
-<p align="left">
-<a href="https://linkedin.com/in/dayang-farah-farzana-abang-idham-a38957280" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
-<a href="https://instagram.com/dygfrhfrz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" /></a>
-<a href="https://youtube.com/@dayangfarahfarzanabintiabangid?feature=shared" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/dayang-farah-farzana-abang-idham-a38957280" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" style="margin: 0 10px;" />
+  </a>
+  <a href="https://instagram.com/dygfrhfrz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" style="margin: 0 10px;" />
+  </a>
+  <a href="https://youtube.com/@dayangfarahfarzanabintiabangid?feature=shared" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" style="margin: 0 10px;" />
+  </a>
 </p>

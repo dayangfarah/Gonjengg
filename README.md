@@ -1,38 +1,75 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dayang Farah Farzana binti Abang Idham
-==============================================================================================================================================================
+# 
 
- 
-![元気こんにちはGIF](https://github.com/Gonjengg/Gonjengg/assets/148249930/77b4dd0a-53be-4e10-a280-70b51031c77c)
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Engineering-Student-blue?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Data Engineering Badge" />
+  <img src="https://img.shields.io/badge/UTM-Skudai-red?style=for-the-badge" alt="UTM Skudai Badge" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Dayang Farah Farzana binti Abang Idham</h1>
+<h3 align="center">Aspiring Data Engineer | Computer Science Student at Universiti Teknologi Malaysia (UTM)</h3>
 
- 
- 
- I am currently pursuing a bachelor degree in Computer Science (Data Engineering) in UTM Skudai 
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://gonjengg.github.io/"><img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website" /></a>
+</p>
 
-- 🏠My hometown is in Kuching, Sarawak
-- 👨‍💻 All of my projects are available at <https://gonjengg.github.io/>
-- 😉Get to know me by clicking this [link](https://drive.google.com/file/d/1OTOOVE4rXMpwORRT157uPvsA5DPeJQSl/view?usp=sharing)
+---
 
-- 📫 How to reach me **dayangfarahfarzana@graduate.utm.my**
+## 💫 About Me
+I am an undergraduate student currently pursuing a **Bachelor of Computer Science (Data Engineering) with Honors** at **UTM Skudai**. Originally from **Kuching, Sarawak**, I specialize in designing integrated enterprise systems, structuring data pipelines, and translating raw technical architectures into interactive commercial assets. 
 
-🎓Education
-- SK Rancangan Perumahan Rakyat
-- MATTARY
-- SMKA Sheikh Haji Othman Abdul Wahab
-- Asasi Universiti Teknologi MARA
-- Universiti Teknologi Malaysia
+* 🔭 **Current Focus:** Advanced enterprise architecture systems, distributed analytics, and predictive data transformations.
+* 💬 **Ask me about:** Data warehouse modeling, interactive business intelligence pipelines, or system integration logic.
+* ⚡ **Fun Fact:** I love parsing chaotic, raw real-world data constraints into structured, elegant system workflows.
 
-Shortcut repositories
-- <https://github.com/Gonjengg/Technology-and-Information-System-Y1S1>
-- <https://github.com/Gonjengg/Programming-Technique-Y1S1>
-- <https://github.com/Gonjengg/Digital-Logic-Y1S1>
-- <https://github.com/Gonjengg/ULRS-Y1S1>
-- <https://github.com/Gonjengg/Discrete-Structure-Y1S1>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gonjengg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gonjengg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 🎓 Core Profile
+
+### 📚 Education
+* **Universiti Teknologi Malaysia (UTM Skudai)**
+  * Bachelor of Computer Science (Data Engineering) with Honors
+  * Focus areas: Big Data Infrastructures, Enterprise Systems Architecture, Business Intelligence Solutions.
+
+### 🛠 Tech Stack & Skills
+* **Programming Languages:** Python, Java, C++, DAX, SQL
+* **Data Engineering & ETL:** Data Warehousing Concepts, System Integration Pipelines, Microservices Architecture
+* **Business Intelligence & Visualization:** Power BI, Tableau Desktop, Alteryx Designer
+* **Modeling Frameworks:** TOGAF, Zachman Architecture Framework, Systems Analysis & Design (SAD)
+
+---
+
+## 📖 Recommended Coursework & Certifications
+
+### Key Courses Completed
+* **SECP 3843: Special Topic in Data Engineering** – Focused on modern distributed processing architectures, real-world big data ingestion pipelines, and scaling enterprise database systems.
+* **SCSP3744: Enterprise System Design and Modeling** – Specialized in mapping corporate objectives to technical solutions using enterprise architecture blueprints, ERP integration setups, and loose-coupling designs.
+* **SECP 3123: Business Intelligence** – Dedicated to engineering automated warehouse data transfer systems, setting up analytics pipelines, and storytelling through interactive stakeholder dashboards.
+
+### Professional Certifications
+* 🎓 **Alteryx Designer (Core Level)** – Data manipulation, preparation, and automated analytic workflow generation.
+
+---
+
+## 🏆 Projects, Honors & Awards
+
+### 🚀 Highlighted Projects
+* **Enterprise Architecture Integration System**
+  * Modeled full end-to-end data governance workflows and multi-layered supply chain sequences utilizing Enterprise Architect software. Built loosely coupled system designs adhering strictly to corporate architectural frameworks.
+* **Interactive Enterprise BI Dashboard Matrix**
+  * Automated operational data transfers to warehouse setups and developed unified visualization dashboards with complex DAX logic. Enabled immediate multi-filtered reporting across cross-functional parameters.
+* **Modern Big Data Pipeline Simulation**
+  * Researched and prototyped cloud-aligned streaming ingestion pipelines based on industry-driven constraints to handle large-scale business operations securely.
+
+---
+
+## 🌐 Connect With Me
+
+* 📂 **Portfolio Website:** Explore my interactive project history directly at [gonjengg.github.io](https://gonjengg.github.io/)
+* 💼 **Professional Network:** Let's connect on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE)
+* 📬 **GitHub Landing Page:** Get to know me more or review my codebases by visiting my profile [link](https://github.com/gonjengg)
+
+*(Note: Remember to replace `YOUR_LINKEDIN_USERNAME_HERE` with your actual LinkedIn URL handle to finalize your profile connections!)*
 
 ### 
 

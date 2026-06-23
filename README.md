@@ -33,6 +33,10 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 * **Universiti Teknologi Malaysia (UTM Skudai)**
   * Bachelor of Computer Science (Data Engineering) with Honors
   * Focus areas: Big Data Infrastructures, Enterprise Systems Architecture, Business Intelligence Solutions.
+* **UiTM Dengkil (2021 - 2022)**
+  * Foundation in Engineering
+* **SMKA Sheikh Haji Othman Abdul Wahab (2017 - 2021)**
+  * High School Education
 
 ### 🛠 Tech Stack & Skills
 * **Programming Languages:** Python, Java, C++, DAX, SQL

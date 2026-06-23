@@ -69,6 +69,7 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 ### 5. Fruit Blitz (Fruit and Bomb Game)
 * **Overview:** Developed an interactive, responsive arcade game applying programmatic logic structures to control real-time game dynamics.
 * **Engineering Impact:** Designed algorithmic logic loops using Object-Oriented principles in **C++** to manage game asset states, fast-paced click event capture, live score accumulation frameworks, and user interaction profiles.
+* **Source Repository:** [Fruit Blitz Codebase 📂](https://github.com/dayangfarah/Programming-Technique-II)
 
 ---
 

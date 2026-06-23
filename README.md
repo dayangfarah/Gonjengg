@@ -30,44 +30,66 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 ## 🎓 Core Profile
 
 ### 📚 Education
-* **Universiti Teknologi Malaysia (UTM Skudai)**
-  * Bachelor of Computer Science (Data Engineering) with Honors
+* **Universiti Teknologi Malaysia (UTM Skudai)** `2023 - 2027`
+  * Bachelor of Computer Science (Data Engineering) with Honors | **CGPA: 3.87/4.00**
   * Focus areas: Big Data Infrastructures, Enterprise Systems Architecture, Business Intelligence Solutions.
-* **UiTM Dengkil (2021 - 2022)**
-  * Foundation in Engineering
-* **SMKA Sheikh Haji Othman Abdul Wahab (2017 - 2021)**
+* **Universiti Teknologi MARA (UiTM Dengkil)** `2022 - 2023`
+  * Foundation in Engineering | **CGPA: 4.00/4.00**
+* **SMKA Sheikh Haji Othman Abdul Wahab** `2017 - 2021`
   * High School Education
 
 ### 🛠 Tech Stack & Skills
-* **Programming Languages:** Python, Java, C++, DAX, SQL
-* **Data Engineering & ETL:** Data Warehousing Concepts, System Integration Pipelines, Microservices Architecture
-* **Business Intelligence & Visualization:** Power BI, Tableau Desktop, Alteryx Designer
-* **Modeling Frameworks:** TOGAF Framework, Systems Analysis & Design (SAD)
+* **Programming Languages:** Python, C++, C, Java, SQL (MySQL), DAX
+* **Data Engineering & ETL:** ETL Pipeline Development, Big Data Processing, Data Warehouse Modeling (Dimensional Modeling, ERD, 1NF-BCNF normalization), GitHub
+* **Cloud & Tools:** Microsoft Azure, AWS, Alteryx, Power BI, Tableau Desktop, Google Colab
+* **System Design Frameworks:** Systems Analysis & Design (SAD), UML Class Diagram Design, Requirement Engineering
 
 ---
 
 ## 🚀 Highlighted Engineering Projects
 
-### 1. PPG Industrial Case Study Data Pipeline
-* **Overview:** Engineered a specialized pipeline solution modeled directly on real-world manufacturing constraints and operational logic identified during our industrial case study engagement with **PPG Industries**.
+### 1. Big Data Processing & Performance Optimisation
+* **Overview:** Processed an extensive **11.65 GB Google Maps reviews dataset (~25M rows)** to evaluate scale-driven execution strategies.
+* **Engineering Impact:** Leveraged **Python, Pandas, Polars, Dask, and Google Colab** to implement chunking, sampling, and parallel processing. Built optimized query systems utilizing lazy evaluation and predicate pushdown with Polars to scale handling across complex JSON workloads efficiently.
+
+### 2. Large-Scale Web Crawler Optimization Project
+* **Overview:** Investigated high-performance data engineering pipelines designed for extraction scale and real-time structural data scraping routines using **Python**.
+* **Engineering Impact:** Built rigorous automated sorting layers that extracted, thoroughly cleaned, and preprocessed massive raw web arrays, formatting multi-structured logs into analytics-compliant staging tables.
+* **Source Repository:** [High-Performance Data Processing Codebase 📂](https://github.com/dayangfarah/High-Performance-Data-Processing)
+
+### 3. PPG Industrial Case Study Data Pipeline
+* **Overview:** Engineered a specialized pipeline solution modeled directly on real-world manufacturing constraints and operational logic identified during an industrial case study engagement with **PPG Industries**.
 * **Engineering Impact:** Handled raw industrial operational technology (OT) telemetry datasets by architecting custom ingestion workflows designed to resolve processing bottlenecks. Structured a clean, resilient ETL pathway that transforms messy industrial logs into aggregated, analytics-ready warehouse assets using structured relational mapping.
 
-### 2. Koperasi KADA Digitalized System
-* **Overview:** Co-developed a complete corporate management application tailored for Koperasi KADA to streamline institutional administrative functions, member services, and operational data visibility. 
-* **Engineering Impact:** Structured the enterprise software from scratch by generating formal engineering artifacts—including Software Requirements Specifications (SRS) and Software Design Descriptions (SDD)—and utilized rigorous black-box/white-box test scripts to ensure bulletproof reliability under heavy multi-user workloads.
+### 4. Cooperative Management System for KADA
+* **Overview:** Co-developed a complete corporate web platform in collaboration with **Lembaga Kemajuan Pertanian Kemubu (KADA)** to digitize administrative operations.
+* **Engineering Impact:** Engineered dynamic database frameworks using **Laravel and MySQL**. Analyzed custom stakeholder requirements and executed end-to-end relational database normalization to safely handle transactional and institutional information.
 * **Source Repository:** [Koperasi KADA Synapse Codebase 📂](https://github.com/frraahn/Koperasi_KADA_Synapse/tree/main)
 
-### 3. TVETMARA Student Attendance Management System
-* **Overview:** Designed and built a dedicated cross-platform management platform tailored for TVET lecturers to digitalize academic logging procedures and eliminate messy paper records.
-* **Engineering Impact:** Developed a highly responsive client-side utility using **Flutter**, incorporating modular state tracking models, asynchronous interface routing, and backend integrations to handle active student rosters flawlessly without UI rendering delays.
-* **Source Repository:** [TVETMARA Attendance System Codebase 📂](https://github.com/leeyinshen0818/TVETMARA-Student-Attendance-Management-System)
+### 5. Fruit Blitz (Fruit and Bomb Game)
+* **Overview:** Developed an interactive, responsive arcade game applying programmatic logic structures to control real-time game dynamics.
+* **Engineering Impact:** Designed algorithmic logic loops using Object-Oriented principles in **C++** to manage game asset states, fast-paced click event capture, live score accumulation frameworks, and user interaction profiles.
+
+---
+
+## 👥 Leadership & Co-Curricular Activities
+
+* **Head of Sponsorship Unit** – *CodeRush Programming Competition, UTM*
+  * Spearheaded sponsorship strategies for a university-level competitive programming event, authoring proposals that successfully secured external organizational partnerships.
+  * Coordinated complex corporate negotiations and managed stakeholder relationships across industry targets.
+
+* **Head of Sponsorship Unit** – *Computing Gala, UTM*
+  * Developed promotional outreach kits and sponsorship prospectuses to secure financial backing for a faculty-wide milestone event.
+
+* **Woman's Kayak Team Captain** – *Viking Kayak Club, UTM*
+  * Commanded the women's athletic team through training regimens, operational logistics, and competitive matches, cultivating team synergy and crisis communications.
 
 ---
 
 ## 📖 Certifications & Cloud Frameworks
-* ☁️ **Microsoft Certified: Azure Data Fundamentals (DP-900)** – Validation of cloud database models, warehouse storage ingestion infrastructure, and core analytic pipelines.
+* ☁️ **Microsoft Certified: Azure Data Fundamentals (DP-900 / AZ-900)** – Validation of cloud computing paradigms, warehouse storage ingestion infrastructure, and core analytic pipelines.
 * 🛠 **Alteryx Designer (Core Level)** – Framework execution for advanced data preparation, spatial blending, and automated ETL workflows.
-* 🚀 **Amazon Web Services (AWS)** – Practical pipeline experience managing compute instances and cluster configurations for high-performance distributed data workloads.
+* 🚀 **Amazon Web Services (AWS)** – Practical pipeline experience managing core AWS computing services and cluster configurations for distributed data workloads.
 
 ---
 

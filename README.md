@@ -38,20 +38,20 @@ I am an undergraduate student currently pursuing a **Bachelor of Computer Scienc
 * **Programming Languages:** Python, Java, C++, DAX, SQL
 * **Data Engineering & ETL:** Data Warehousing Concepts, System Integration Pipelines, Microservices Architecture
 * **Business Intelligence & Visualization:** Power BI, Tableau Desktop, Alteryx Designer
-* **Modeling Frameworks:** TOGAF Frameework, Systems Analysis & Design (SAD)
+* **Modeling Frameworks:** TOGAF Framework, Systems Analysis & Design (SAD)
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Highlighted Engineering Projects
 
-### 1. Koperasi KADA Digitalized System
+### 1. PPG Industrial Case Study Data Pipeline
+* **Overview:** Engineered a specialized pipeline solution modeled directly on real-world manufacturing constraints and operational logic identified during our industrial case study engagement with **PPG Industries**.
+* **Engineering Impact:** Handled raw industrial operational technology (OT) telemetry datasets by architecting custom ingestion workflows designed to resolve processing bottlenecks. Structured a clean, resilient ETL pathway that transforms messy industrial logs into aggregated, analytics-ready warehouse assets using structured relational mapping.
+
+### 2. Koperasi KADA Digitalized System
 * **Overview:** Co-developed a complete corporate management application tailored for Koperasi KADA to streamline institutional administrative functions, member services, and operational data visibility. 
 * **Engineering Impact:** Structured the enterprise software from scratch by generating formal engineering artifacts—including Software Requirements Specifications (SRS) and Software Design Descriptions (SDD)—and utilized rigorous black-box/white-box test scripts to ensure bulletproof reliability under heavy multi-user workloads.
 * **Source Repository:** [Koperasi KADA Synapse Codebase 📂](https://github.com/frraahn/Koperasi_KADA_Synapse/tree/main)
-
-### 2. End-to-End Cloud Data Pipeline
-* **Overview:** Formulated and deployed automated data pipeline layers optimized to stream, ingest, clean, and process multi-structured enterprise business inputs securely.
-* **Engineering Impact:** Leveraged **Microsoft Azure Cloud Environments** alongside structural big data utilities to eliminate staging data bottlenecks. Engineered high-efficiency relational mapping tracks that transform raw transaction logs into interactive, dashboard-ready data warehouse assets.
 
 ### 3. TVETMARA Student Attendance Management System
 * **Overview:** Designed and built a dedicated cross-platform management platform tailored for TVET lecturers to digitalize academic logging procedures and eliminate messy paper records.
